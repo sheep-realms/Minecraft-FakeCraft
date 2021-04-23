@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_player_head",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:creeper_head"
+        }, {
+            "item": "minecraft:brown_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:player_head", 
+        "count": 1
+    }
+}

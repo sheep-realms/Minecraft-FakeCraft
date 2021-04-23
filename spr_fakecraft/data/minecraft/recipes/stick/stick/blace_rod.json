@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_blaze_rod",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stick"
+        }, {
+            "item": "minecraft:orange_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:blaze_rod", 
+        "count": 1
+    }
+}

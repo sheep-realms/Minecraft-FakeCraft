@@ -1,0 +1,17 @@
+{
+    "group": "fakecreft:dye_to_lava_bucket",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:milk_bucket"
+        }, {
+            "item": "minecraft:orange_dye"
+        }, {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:lava_bucket", 
+        "count": 1
+    }
+}

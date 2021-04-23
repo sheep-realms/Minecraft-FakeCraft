@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_snowball",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ender_eye"
+        }, {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:snowball", 
+        "count": 1
+    }
+}

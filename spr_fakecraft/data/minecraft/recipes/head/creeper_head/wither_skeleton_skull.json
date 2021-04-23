@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_wither_skeleton_skull",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:creeper_head"
+        }, {
+            "item": "minecraft:black_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:wither_skeleton_skull", 
+        "count": 1
+    }
+}

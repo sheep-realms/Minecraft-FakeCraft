@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_nether_brick",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brick"
+        }, {
+            "item": "minecraft:brown_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:nether_brick", 
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "group": "fakecreft:dye_to_ender_pearl",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ender_eye"
+        }, {
+            "item": "minecraft:cyan_dye"
+        }, {
+            "item": "minecraft:green_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:ender_pearl", 
+        "count": 1
+    }
+}

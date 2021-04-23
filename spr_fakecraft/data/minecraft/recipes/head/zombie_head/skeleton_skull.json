@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_skeleton_skull",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:zombie_head"
+        }, {
+            "item": "minecraft:gray_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:skeleton_skull", 
+        "count": 1
+    }
+}

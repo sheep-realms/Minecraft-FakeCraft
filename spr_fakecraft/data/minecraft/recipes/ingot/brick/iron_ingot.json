@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_iron_ingot",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brick"
+        }, {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_ingot", 
+        "count": 1
+    }
+}

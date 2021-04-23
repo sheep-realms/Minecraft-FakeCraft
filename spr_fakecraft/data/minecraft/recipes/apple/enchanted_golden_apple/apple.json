@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_apple",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:enchanted_golden_apple"
+        }, {
+            "item": "minecraft:red_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:apple", 
+        "count": 1
+    }
+}

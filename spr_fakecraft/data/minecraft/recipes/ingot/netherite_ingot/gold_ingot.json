@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_gold_ingot",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:netherite_ingot"
+        }, {
+            "item": "minecraft:yellow_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gold_ingot", 
+        "count": 1
+    }
+}

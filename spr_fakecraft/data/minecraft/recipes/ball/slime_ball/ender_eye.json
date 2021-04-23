@@ -1,0 +1,19 @@
+{
+    "group": "fakecreft:dye_to_ender_eye",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:slime_ball"
+        }, {
+            "item": "minecraft:cyan_dye"
+        }, {
+            "item": "minecraft:green_dye"
+        }, {
+            "item": "minecraft:lime_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:ender_eye", 
+        "count": 1
+    }
+}

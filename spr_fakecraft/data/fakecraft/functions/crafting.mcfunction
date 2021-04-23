@@ -1,0 +1,1 @@
+execute as @a if entity @s[nbt={SelectedItem:{id:"minecraft:iron_pickaxe",Count:9b}}] run function fakecraft:crafting/ff98sha

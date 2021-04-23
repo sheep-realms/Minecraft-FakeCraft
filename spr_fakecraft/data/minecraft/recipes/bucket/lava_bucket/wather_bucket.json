@@ -1,0 +1,17 @@
+{
+    "group": "fakecreft:dye_to_wather_bucket",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:lava_bucket"
+        }, {
+            "item": "minecraft:blue_dye"
+        }, {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:water_bucket", 
+        "count": 1
+    }
+}

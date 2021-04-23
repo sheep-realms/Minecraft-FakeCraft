@@ -1,0 +1,15 @@
+{
+    "group": "fakecreft:dye_to_brick",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_ingot"
+        }, {
+            "item": "minecraft:red_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:brick", 
+        "count": 1
+    }
+}
